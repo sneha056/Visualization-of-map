@@ -4,7 +4,7 @@ import streamlit as st #use to make interactibe web application
 import json as js
 
 
-INDIA_PATH_TO_DATA = "state_city_datay.json"  #PATH TO THE DATA FILE OF INDIA
+INDIA_PATH_TO_DATA = "state_city_data_in.json"  #PATH TO THE DATA FILE OF INDIA
 PATH_TO_GEOJSON = "indian_map_cordinate.geojson"  #PATH TO THE GEOJSON FILE OF INDIA"
 US_PATH_TO_DATA = "state_city_data_us.json"  # us data
 
