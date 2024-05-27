@@ -1,0 +1,104 @@
+[
+    {
+      "capital": "Montgomery",
+      "state": "Alabama",
+      "lat": 32.3792,
+      "long": -86.3077
+    },
+    {
+      "capital": "Juneau",
+      "state": "Alaska",
+      "lat": 58.3019,
+      "long": -134.4197
+    },
+    {
+      "capital": "Phoenix",
+      "state": "Arizona",
+      "lat": 33.4484,
+      "long": -112.0740
+    },
+    {
+      "capital": "Little Rock",
+      "state": "Arkansas",
+      "lat": 34.7465,
+      "long": -92.2896
+    },
+    {
+      "capital": "Sacramento",
+      "state": "California",
+      "lat": 38.5816,
+      "long": -121.4944
+    },
+    {
+      "capital": "Denver",
+      "state": "Colorado",
+      "lat": 39.7392,
+      "long": -104.9903
+    },
+    {
+      "capital": "Hartford",
+      "state": "Connecticut",
+      "lat": 41.7658,
+      "long": -72.6734
+    },
+    {
+      "capital": "Dover",
+      "state": "Delaware",
+      "lat": 39.1582,
+      "long": -75.5244
+    },
+    {
+      "capital": "Tallahassee",
+      "state": "Florida",
+      "lat": 30.4383,
+      "long": -84.2807
+    },
+    {
+      "capital": "Atlanta",
+      "state": "Georgia",
+      "lat": 33.7490,
+      "long": -84.3880
+    },
+    {
+      "capital": "Honolulu",
+      "state": "Hawaii",
+      "lat": 21.3069,
+      "long": -157.8583
+    },
+    {
+      "capital": "Boise",
+      "state": "Idaho",
+      "lat": 43.6150,
+      "long": -116.2023
+    },
+    {
+      "capital": "Springfield",
+      "state": "Illinois",
+      "lat": 39.7817,
+      "long": -89.6501
+    },
+    {
+      "capital": "Indianapolis",
+      "state": "Indiana",
+      "lat": 39.7684,
+      "long": -86.1581
+    },
+    {
+      "capital": "Des Moines",
+      "state": "Iowa",
+      "lat": 41.5868,
+      "long": -93.6250
+    },
+    {
+      "capital": "Topeka",
+      "state": "Kansas",
+      "lat": 39.0473,
+      "long": -95.6752
+    },
+    {
+      "capital": "Frankfort",
+      "state": "Kentucky",
+      "lat": 38.1867,
+      "long": -84.8754
+    }
+]
