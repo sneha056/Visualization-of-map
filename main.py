@@ -1,8 +1,6 @@
 import streamlit as st
-from pandas.core.indexes.base import Index
-from streamlit.delta_generator import Value
 from state_city_map import *
-#from flight_path import *
+
 
 #to remove left padding
 st.set_page_config(layout="wide")
