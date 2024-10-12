@@ -16,7 +16,7 @@ SIDEBAR_DICT = {  #KEYS ARE DISPLAYED AND VALUES ARE USED TO CALL FUNCTION
 
 
 def main1():
-  #for side bar of map. bullets are of radio type and function is called on the basis of dict keys i.e which key is pressed
+  #for side bar of map. bullets are of radio type and function isdfg called on the basis of dict keys i.e which key is pressed
   chart_type = st.sidebar.radio("Select chart type  for region: ",
                                 SIDEBAR_DICT.keys())
   SIDEBAR_DICT[chart_type]()
